@@ -1,0 +1,8 @@
+.profile_style {
+  margin: 20px;
+}
+
+.blog_main img {
+  height: 350px;
+  object-fit: contain;
+}
